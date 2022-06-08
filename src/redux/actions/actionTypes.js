@@ -1,0 +1,4 @@
+
+
+export  const DELETE_MESSAGES = 'DELETE_MESSAGES';
+export const ADD_MESSAGE = 'ADD_MESSAGE';
