@@ -5,7 +5,7 @@ const initialState = {
     messages:[
         {
             id:1,
-             chatId:1,
+            chatId:1,
             title:'как дела?'
         },
         {
